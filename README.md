@@ -7,3 +7,8 @@ This notebook is designed to be a simple introduction to Facebook AI's DETR mode
 A sample selection of outputs is shown below
 
 ![Demo](https://github.com/shamikbose/ObjectDetectionDETR/blob/main/4x23yg.gif)
+
+To-Do:
+- Return logits above a certain confidence threshold only
+- Find similarity between image tags and detected objects
+- Automatically add missing tags if confidence threshold is above a certain value
