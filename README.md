@@ -5,4 +5,5 @@ This notebook is designed to be a simple introduction to Facebook AI's DETR mode
 3. Using the outputs from the model, we trace bounding boxes and draw labels on the image
 
 A sample selection of outputs is shown below
+
 ![Demo](https://github.com/shamikbose/ObjectDetectionDETR/blob/main/4x23yg.gif)
